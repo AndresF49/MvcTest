@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+@*may have to remove link to stylesheet and put it on the main layout but im not sure yet since this stylesheet will be use for login and register pages*@
+<head>
+    <link rel="stylesheet" href="~/css/loginRegister.css" asp-append-version="true" />
+</head>
+
+<h2>@ViewData["Title"]</h2>
+
+<div id="loginForm">
+    <form method="POST" action="https://example.com">
+        <p>
+            <label for="email">Email:</label>
+            <input type="email" name="email" id="email">
+        </p>
+        <p>
+            <label for="password">Password:</label>
+            <input type="password" name="password" id="password">
+        </p>
+
+
+        <input type="submit">
+    </form>
+    <a id="btn register" asp-area="" asp-controller="Home" asp-action="Register">Register</a>
+
+
+
+</div>
