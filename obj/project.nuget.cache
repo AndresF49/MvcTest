@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jUg1JZoBwvVL+hl+djto+jHMckJ1xc7+ceTv36ZJPgYWywA8w9468qwW3+1SBioqZ5fLyumz7pZ3bVsyFx8QmA==",
+  "dgSpecHash": "wjD/FjcYMZItVZnqPbAPUg9LaDwiiSnwySmPlwpPbL5kJdVOdR1/tcEsZcGfmobwBCXbCrun73S05uLRaE40GA==",
   "success": true,
-  "projectFilePath": "/Users/andres/VSProjects/MvcMovie/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\andre\\Documents\\VSProjects\\MvcTest\\MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
