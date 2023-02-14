@@ -36,7 +36,7 @@ input[type=submit]:hover {
         background-color: #07d;
     }
 
-div#loginForm a, div#registerForm a{
+/* div#loginForm a, div#registerForm a{
     background-color: beige;
     display: inline-block;
     width: 150px;
@@ -50,4 +50,4 @@ div#loginForm a, div#registerForm a{
 
 div#loginForm a:hover, div#registerForm a:hover {
         background-color: #609;
-}
+} */
